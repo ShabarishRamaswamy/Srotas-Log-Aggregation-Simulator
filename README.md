@@ -8,3 +8,6 @@ This is also an interesting point to explore other similar fields such as **Stoc
 
 # Architecture
 ![Srotas-Log-Aggregation-Dashboard-Log-Generator-Architecture](./Srotas-LAD-Simulator.png)
+
+# Structured Logging works using API
+![Srotas-Log-Aggregation-Dashboard-Current-Status](./images/Screenshot%202025-11-11%20at%203.29.51 PM.png)
