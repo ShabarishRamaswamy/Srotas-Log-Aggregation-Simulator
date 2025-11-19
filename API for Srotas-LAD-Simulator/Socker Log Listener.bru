@@ -1,0 +1,19 @@
+meta {
+  name: Socker Log Listener
+  type: ws
+  seq: 2
+}
+
+ws {
+  url: {{BASE_URL}}/listen
+  body: ws
+  auth: inherit
+}
+
+body:ws {
+  name: message 1
+  type: json
+  content: '''
+    {}
+  '''
+}

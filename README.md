@@ -6,6 +6,10 @@ I wanted to make an app which will generate random logs which can be used by the
 This is also an interesting point to explore other similar fields such as **Stochastic processes**, 
 **Queueing theory**, **Discrete Event Simulation** and **Fuzzing**.
 
+# Ideology
+Minimal external depencendy. I wanna control all of my code.
+Only Exception (Till Now): coder/websocket as Go LACKS a good standard implementation (Shocking!)
+
 # Architecture
 ![Srotas-Log-Aggregation-Dashboard-Log-Generator-Architecture](./Srotas-LAD-Simulator.png)
 
